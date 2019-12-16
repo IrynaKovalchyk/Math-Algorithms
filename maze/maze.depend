@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514563083 source:f:\codeblocks\maze\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1514565841 source:f:\codeblocks\maze\src\maze.cpp
+	"maze.h"
+
+1514565841 f:\codeblocks\maze\include\maze.h
+	"Location.h"
+
+1514564522 source:f:\codeblocks\maze\src\location.cpp
+	"Location.h"
+
+1514564522 f:\codeblocks\maze\include\location.h
+
